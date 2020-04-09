@@ -138,3 +138,32 @@ main {
     border-radius: 3pt;
     border: 1px solid gray;
 }
+.secondBlock {
+    width: 100%;
+    background: white;
+    box-shadow: 0 -30px 29px -30px black;
+}
+.top-text {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+#top-head-section {
+    display: flex;
+    padding-bottom: 5%;
+}
+#block-text p {
+    color: black;
+    font-size: 13px;
+}
+#block-text {
+    width: 210px;
+    padding-top: 5%;
+}
+.shadow-line {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 4%;
+}
